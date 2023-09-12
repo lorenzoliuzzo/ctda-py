@@ -1,2 +1,2 @@
-# ctda-py
-Compile Time Dimensional Analysis - python types with dimensional awareness 
+# Compile Time Dimensional Analysis in Python
+Dimensional analysis plays a crucial role in scientific computations by ensuring that mathematical expressions and equations are consistent in terms of units and dimensions. The library incorporates a compile-time structure for dimensional analysis, allowing users to define and manipulate physical quantities with their associated units.
